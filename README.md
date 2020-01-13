@@ -1,2 +1,2 @@
 # beernanza
-A Object-oriented tile-based memory board game in Java
+An Object-oriented tile-based memory board game in Java. 
