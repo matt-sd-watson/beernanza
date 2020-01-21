@@ -16,7 +16,8 @@ In each game session, a board of anonymous beer logos is created at random, each
 ### An example of beernanza being played in two-player split-screen mode. 
 
 ## Modes and Options
-	By default, Beernanza is set to be played as a single-player mode with one player tracking a single score. From the welcome screen, under Modes & Options, the user can select a two-player single-window shared session, where two players alternate card matching turns, and
+
+By default, Beernanza is set to be played as a single-player mode with one player tracking a single score. From the welcome screen, under Modes & Options, the user can select a two-player single-window shared session, where two players alternate card matching turns, and
 two separate scores are tracked for each player. Similarly to the single player mode, the game ends when all of the cards have been 
 matched.  The game session is loaded with the default classic dard deck, containing the card logos of many well-known Belgian
 beers. For a new challenge, the player may also select the alternate "Trappist Traditions" card deck, which contains
