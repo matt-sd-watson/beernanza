@@ -3,4 +3,4 @@ An Object-oriented tile-based memory board game in Java.
 
 Starting the game 
 
-![Test Image 1](/screenshot/gome_screen.png)
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/beernanza/screenshot/home_screen.png)
