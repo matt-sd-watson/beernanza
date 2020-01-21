@@ -13,6 +13,8 @@ In each game session, a board of anonymous beer logos is created at random, each
 
 ![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/beernanza/screenshot/gameplay.png)
 
+### An example of beernanza being played in two-player split-screen mode. 
+
 ## Modes and Options
 	By default, Beernanza is set to be played as a single-player mode with one player tracking a single score. From the welcome screen, under Modes & Options, the user can select a two-player single-window shared session, where two players alternate card matching turns, and
 two separate scores are tracked for each player. Similarly to the single player mode, the game ends when all of the cards have been 
@@ -30,6 +32,7 @@ During game play, the player can either increase or decrease his/her score using
 Therefore, it is always more advantageous to find a match faster than slower!
 
 ![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/beernanza/screenshot/score_list.png)
+### Score tracking enables the viewer to save and view key game session statistics. 
 
 For each session, there is the possibility to save the player’s score (note that in two-player mode, only the highest score in saved).
 From the in-game window, selecting "Save the highest score" will allow for the user to input a user name, which saves with their
@@ -46,8 +49,11 @@ Finally, these scores can be seen at any time from the main menu, and reset at a
 "Reset High Scores" option from the main menu.  
 
 ## Special Card
-Beernanza employs a special action card called "Hair of the Dog", which resets the selecting player's score to 0. This card
-has both advantages and disadvantages: 
+Beernanza employs a special action card called "Hair of the Dog", which resets the selecting player's score to 0. The card appears as the following image in game: 
+
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/beernanza/screenshot/reset.jpg)
+
+This card has both advantages and disadvantages: 
 	- If the player currently has a negative score, the card will effectively increase their score back to 0, providing a benefit
 	- If the player has a positive high score, selecting this card will effectively undo all progress and send their score
 	  back to 0. Based on this logic, it is important to consider when to use this card in-game!
