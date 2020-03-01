@@ -19,12 +19,13 @@ public class ScoreClicker implements ActionListener {
 	// prompt is selected 
 	
 	public void actionPerformed(ActionEvent e) {
+		PrintWriter printWriter = null;
 		try {
 			String saveUserName = JOptionPane.showInputDialog("Enter your name:");
 			String fileName = "game_score.csv"; 
 			File f = new File(fileName);
 
-			PrintWriter printWriter = null;
+			
 			if (f.exists() && !f.isDirectory() ) {
 				printWriter = new PrintWriter(new FileOutputStream(new File(fileName), true));
 			}
@@ -54,12 +55,12 @@ public class ScoreClicker implements ActionListener {
 			if (CardPanel.isPlayHumanOpponent() == true) {
 				printWriter.print("Yes");
 			}
-			printWriter.close();
+			
 			
 		} catch (IOException e1) {
 			
 			System.out.println("There was an error saving the game score to the file.");
 		} 
-		
+		printWriter.close();
 	} 
 	}
