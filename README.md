@@ -1,5 +1,5 @@
 # beernanza!
-beernanza is an Object-oriented tile-based memory board game in encoded in Java. The design and gameplay functionality takes advantage of many Java object-oriented concepts to enable game session customization, high score tracking, and single and multi-player modes. 
+beernanza is an Object-oriented tile-based memory board game in implemented in Java using the Swing GUI. The design and gameplay functionality takes advantage of many Java object-oriented concepts to enable game session customization, high score tracking, and single and multi-player modes. 
 
 ## Starting The Game 
 
