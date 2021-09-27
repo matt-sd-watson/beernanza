@@ -4,13 +4,13 @@ beernanza is an Object-oriented tile-based memory board game in implemented in J
 ## Starting The Game 
 
 The welcome screen for beernanza appears as follows: 
-![Image description](https://github.com/matt-sd-watson/beernanza/tree/master/screenshot/home_screen.png)
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/screenshot/gameplay.png)
 
 ## Basic Gameplay
 
 In each game session, a board of anonymous beer logos is created at random, each hidden under the default card setting. The player is responsible for trying to match two of the same beer logos as quickly as possible. Each board can accommodate up to 12 logo pairs (or 24 total cards). From the main menu, the player can change the difficulty setting, board dimensions, and modes (see below). 
 
-![Image description](https://github.com/matt-sd-watson/beernanza/tree/master/screenshot/gameplay.png)
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/screenshot/gameplay.png)
 
 ### An example of beernanza being played in two-player split-screen mode. 
 
@@ -31,7 +31,7 @@ During game play, the player can either increase or decrease his/her score using
 
 Therefore, it is always more advantageous to find a match faster than slower!
 
-![Image description](https://github.com/matt-sd-watson/beernanza/tree/master/screenshot/score_list.png)
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/screenshot/score_list.png)
 ### Score tracking enables the viewer to save and view key game session statistics. 
 
 For each session, there is the possibility to save the player’s score (note that in two-player mode, only the highest score in saved).
@@ -51,7 +51,7 @@ Finally, these scores can be seen at any time from the main menu, and reset at a
 ## Special Card
 Beernanza employs a special action card called "Hair of the Dog", which resets the selecting player's score to 0. The card appears as the following image in game: 
 
-![Image description](https://github.com/matt-sd-watson/beernanza/tree/master/screenshot/reset.jpg)
+![Image description](https://github.com/matt-sd-watson/beernanza/blob/master/screenshot/reset.jpg)
 
 This card has both advantages and disadvantages: 
 	- If the player currently has a negative score, the card will effectively increase their score back to 0, providing a benefit
